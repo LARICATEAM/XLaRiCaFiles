@@ -1,0 +1,35 @@
+{
+  
+"result": true,
+  
+"plugins_": {
+  
+  
+
+"AddedMe.lua":"[ملف امر منو ضافني](https://t.me/filesLaRiCa)",
+  
+"TagAll.lua":"[ملف تاك منفصل للاعضاء](https://t.me/filesLaRiCa)",
+  
+"TagAdmins.lua":"[ملف تاك منفصل للمشرفين](https://t.me/filesLaRiCa)",
+  
+"ReplyBot.lua":"[ملف الردود الخاص بالسورس](https://t.me/filesLaRiCa)",
+      
+"MuteNames.lua":"[ملف كتم الاسماء للمجموعات](https://t.me/filesLaRiCa)",
+  
+"ProNames.lua":"[ملف وضع التوحيد للمجموعات](https://t.me/filesLaRiCa)",
+  
+"ChangeName.lua":"[ملف التنبيه لتغيير الاسم](https://t.me/filesLaRiCa)",
+    
+"ChangeUser.lua":"[ملف التنبيه لتغيير المعرف](https://t.me/filesLaRiCa)",
+  
+"ChangePhoto.lua":"[ملف التنبيه لتغيير الصوره](https://t.me/filesLaRiCa)",
+  
+"AutoFile.lua":"[ملف النسخ الاحتياطيه التلقائيه](https://t.me/filesLaRiCa)",
+  
+"KtTwet.lua":"[ملف لعبة كت تويت](https://t.me/filesLaRiCa)",
+  
+      
+  
+}
+  
+}
